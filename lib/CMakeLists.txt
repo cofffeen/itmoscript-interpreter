@@ -1,0 +1,1 @@
+add_library(itmoscript interpreter.cpp interpreter.h lexer.cpp lexer.h token.cpp token.h token_type.h ast.h standart_library_func.cpp standart_library_func.h parser.h parser.cpp scope.h scope.cpp function.h value.h)
